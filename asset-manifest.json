@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/KrystianWk/Poster_maker/static/css/main.546c778a.css",
-    "main.js": "/KrystianWk/Poster_maker/static/js/main.c386b94e.js",
-    "static/js/453.6f55a836.chunk.js": "/KrystianWk/Poster_maker/static/js/453.6f55a836.chunk.js",
-    "static/media/poster_starter.png": "/KrystianWk/Poster_maker/static/media/poster_starter.4993f4cc1c6f114f4c3c.png",
-    "index.html": "/KrystianWk/Poster_maker/index.html",
-    "main.546c778a.css.map": "/KrystianWk/Poster_maker/static/css/main.546c778a.css.map",
-    "main.c386b94e.js.map": "/KrystianWk/Poster_maker/static/js/main.c386b94e.js.map",
-    "453.6f55a836.chunk.js.map": "/KrystianWk/Poster_maker/static/js/453.6f55a836.chunk.js.map"
+    "main.css": "/Poster_maker/static/css/main.546c778a.css",
+    "main.js": "/Poster_maker/static/js/main.d41fd2b3.js",
+    "static/js/453.6f55a836.chunk.js": "/Poster_maker/static/js/453.6f55a836.chunk.js",
+    "static/media/poster_starter.png": "/Poster_maker/static/media/poster_starter.4993f4cc1c6f114f4c3c.png",
+    "index.html": "/Poster_maker/index.html",
+    "main.546c778a.css.map": "/Poster_maker/static/css/main.546c778a.css.map",
+    "main.d41fd2b3.js.map": "/Poster_maker/static/js/main.d41fd2b3.js.map",
+    "453.6f55a836.chunk.js.map": "/Poster_maker/static/js/453.6f55a836.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.546c778a.css",
-    "static/js/main.c386b94e.js"
+    "static/js/main.d41fd2b3.js"
   ]
 }
